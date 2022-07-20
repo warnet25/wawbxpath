@@ -1,2 +1,1 @@
-Harap gunakan aplikasi hanya pada perangkat pribadi. Segala kerugian yang diakibatkan penggunaan pada perangkat korporat bukan menjadi tanggung jawab pengembang.
-Isu false positive virus sudah diketahui dan akan diperbaiki. Info false positive: https://medium.com/@markhank/how-to-stop-your-python-programs-being-seen-as-malware-bfd7eb407a7
+Harap gunakan aplikasi hanya pada perangkat pribadi. Segala kerugian yang diakibatkan penggunaan pada perangkat korporat bukan menjadi tanggung jawab pengembang. Isu false positive virus sudah diketahui dan akan diperbaiki. Info: https://medium.com/@markhank/how-to-stop-your-python-programs-being-seen-as-malware-bfd7eb407a7
