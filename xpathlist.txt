@@ -14,7 +14,7 @@
 //span[@data-testid="media-upload"]
 //span[@data-testid="audio-upload"]
 //*[@id="app"]/div[1]/div[1]/div[2]/div[2]/span/div[1]/span/div[1]/div/div/div[1]/span/div/div[2]/div/div[3]/div[1]/div[2]
-//*[@id="app"]/div/div/div[2]/div[2]/span/div/span/div/div/div[2]/div/div[1]/div[3]/div/div/div[2]/div[1]/div[2]
+//*[@id="app"]/div/div/div[2]/div[2]/span/div/span/div/div/div[2]/div/div[2]/div[2]/div/div/span
 //*[@id="app"]/div/div/div[2]/div[2]/span/div/span/div/div/div[2]/div/div[1]/div[3]/div/div[2]/div[1]/div[2]
 //*[@id="main"]/header/div[2]/div/div/span
 1
