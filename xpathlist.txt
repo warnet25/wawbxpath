@@ -19,4 +19,4 @@
 //*[@id="main"]/header/div[2]/div/div/span
 1
 button
-//*[@id="app"]/div/div/div[3]/span/div/div/div[1]/span[@data-testid="alert-update"]
+//*[@id="side"]/span/div/div/div[1]/span[@data-testid="alert-update"]
